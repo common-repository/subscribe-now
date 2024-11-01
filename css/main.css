@@ -1,0 +1,55 @@
+.sn-subscription-form-wrapper input {
+    margin-bottom: 8px;
+}
+
+.sn-subscription-form-wrapper button {
+    padding: 8px 12px;
+}
+
+.sn-subscription-form-wrapper button img {
+    display: none;;
+    margin-right: 4px;
+    vertical-align: top;
+}
+
+.sn-subscription-form-wrapper p {
+    display: none;;
+    background: #cfe2ff;
+    border: 1px solid #aeaef9;
+    margin-top: 10px;
+    padding: 8px;
+    color: blue;
+    border-radius: 2px;
+}
+
+.lds-dual-ring {
+    display: none;
+    vertical-align: top;
+    width: 20px;
+    height: 20px;
+}
+
+.lds-dual-ring.shown {
+    display: inline-block;
+}
+
+.lds-dual-ring:after {
+    content: " ";
+    display: block;
+    width: 16px;
+    height: 16px;
+    margin: 2px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    border-color: #fff transparent #fff transparent;
+    animation: lds-dual-ring 1.2s linear infinite;
+}
+
+@keyframes lds-dual-ring {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}

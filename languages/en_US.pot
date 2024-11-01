@@ -1,0 +1,144 @@
+# Copyright (C) 2020 Subscribe Now
+# This file is distributed under the same license as the Subscribe Now package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Subscribe Now 1.2.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/subscribe-now\n"
+"POT-Creation-Date: 2020-06-16 11:36:43+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. #-#-#-#-#  en_US.pot (Subscribe Now 1.2.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: subscribe-now.php:178
+msgid "Subscribe Now"
+msgstr ""
+
+#: subscribe-now.php:180 views/subscribers.php:1
+msgid "Subscribers"
+msgstr ""
+
+#: subscribe-now.php:196
+msgid "Subscriber successfully removed."
+msgstr ""
+
+#: subscribe-now.php:200
+msgid "There was a problem removing the subscriber. Please try again."
+msgstr ""
+
+#: subscribe-now.php:267 subscribe-now.php:303
+msgid "Valid email address is required."
+msgstr ""
+
+#: subscribe-now.php:271
+msgid "You are already subscribed."
+msgstr ""
+
+#: subscribe-now.php:285
+msgid "You have been subscribed."
+msgstr ""
+
+#: subscribe-now.php:299
+msgid "There was a problem with your request. Please try again."
+msgstr ""
+
+#: subscribe-now.php:307
+msgid "You weren't subscribed in the first place."
+msgstr ""
+
+#: subscribe-now.php:315
+msgid "You have been unsubscribed."
+msgstr ""
+
+#: views/settings.php:1
+msgid "Settings"
+msgstr ""
+
+#: views/settings.php:9
+msgid ""
+"Check this if you want to delete table and data on plugin uninstallation"
+msgstr ""
+
+#: views/settings.php:15
+msgid "Do not delete data on plugin uninstallation"
+msgstr ""
+
+#: views/subscribe-form.php:2 views/unsubscribe-form.php:2
+msgid "Email address"
+msgstr ""
+
+#: views/subscribe-form.php:4
+msgid "Sign up"
+msgstr ""
+
+#: views/subscribers.php:2
+msgid "Export CSV"
+msgstr ""
+
+#: views/subscribers.php:16
+msgid "Email"
+msgstr ""
+
+#: views/subscribers.php:17
+msgid "Added at"
+msgstr ""
+
+#: views/subscribers.php:18
+msgid "Actions"
+msgstr ""
+
+#: views/subscribers.php:32
+msgid "Are you sure you want to remove this subscriber?"
+msgstr ""
+
+#: views/subscribers.php:32
+msgid "Remove"
+msgstr ""
+
+#: views/subscribers.php:43
+msgid "There are no subscribers"
+msgstr ""
+
+#: views/unsubscribe-form.php:4
+msgid "Unsubscribe"
+msgstr ""
+
+#: widgets/subscribe-widget.php:12
+msgid "Subscription Form"
+msgstr ""
+
+#: widgets/subscribe-widget.php:15 widgets/unsubscribe-widget.php:15
+msgid "Displays subscription form."
+msgstr ""
+
+#: widgets/subscribe-widget.php:39 widgets/unsubscribe-widget.php:39
+msgid "Title"
+msgstr ""
+
+#: widgets/subscribe-widget.php:44 widgets/unsubscribe-widget.php:44
+msgid "Title:"
+msgstr ""
+
+#: widgets/unsubscribe-widget.php:12
+msgid "Unsubscription Form"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://bitbucket.org/petarvasilev/subscribe-now"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A plugin to allow users to subscribe to a mailing list."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Petar Vasilev"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.petarvasilev.com/"
+msgstr ""

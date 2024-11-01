@@ -1,0 +1,149 @@
+# Copyright (C) 2020 Subscribe Now
+# This file is distributed under the same license as the Subscribe Now package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Subscribe Now 1.1.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/subscribe-"
+"now\n"
+"POT-Creation-Date: 2020-06-16 11:36:43+00:00\n"
+"PO-Revision-Date: 2020-06-16 14:37+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg_BG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Plugin Name of the plugin/theme
+#: subscribe-now.php:178
+msgid "Subscribe Now"
+msgstr ""
+
+#: subscribe-now.php:180 views/subscribers.php:1
+msgid "Subscribers"
+msgstr "Абонати"
+
+#: subscribe-now.php:196
+msgid "Subscriber successfully removed."
+msgstr "Абонатът успешно премахнат."
+
+#: subscribe-now.php:200
+msgid "There was a problem removing the subscriber. Please try again."
+msgstr "Имаше проблем при махането на абоната. Моля опитайте отново."
+
+#: subscribe-now.php:267 subscribe-now.php:303
+msgid "Valid email address is required."
+msgstr "Нужен е валиден имейл адрес."
+
+#: subscribe-now.php:271
+msgid "You are already subscribed."
+msgstr "Вече бяхте абонирани."
+
+#: subscribe-now.php:285
+msgid "You have been subscribed."
+msgstr "Успешно бяхте абонирани."
+
+#: subscribe-now.php:299
+msgid "There was a problem with your request. Please try again."
+msgstr "Имаше проблем с вашата заявка. Моля опитайте отново."
+
+#: subscribe-now.php:307
+msgid "You weren't subscribed in the first place."
+msgstr "Вие не бяхте абониран."
+
+#: subscribe-now.php:315
+msgid "You have been unsubscribed."
+msgstr "Вие бяхте премахнати от списъка ни с абонати."
+
+#: views/settings.php:1
+msgid "Settings"
+msgstr "Настройки"
+
+#: views/settings.php:9
+msgid ""
+"Check this if you want to delete table and data on plugin uninstallation"
+msgstr ""
+"Изберете това ако искате да изтриете таблицата и всички данни при "
+"деинсталация на плъгина"
+
+#: views/settings.php:15
+msgid "Do not delete data on plugin uninstallation"
+msgstr "Не изтривай данни при деинсталация на плъгина"
+
+#: views/subscribe-form.php:2 views/unsubscribe-form.php:2
+msgid "Email address"
+msgstr "Имейл адрес"
+
+#: views/subscribe-form.php:4
+msgid "Sign up"
+msgstr "Абонирай се"
+
+#: views/subscribers.php:2
+msgid "Export CSV"
+msgstr "Експорт CSV"
+
+#: views/subscribers.php:16
+msgid "Email"
+msgstr "Имейл"
+
+#: views/subscribers.php:17
+msgid "Added at"
+msgstr "Добавено"
+
+#: views/subscribers.php:18
+msgid "Actions"
+msgstr "Действия"
+
+#: views/subscribers.php:32
+msgid "Are you sure you want to remove this subscriber?"
+msgstr "Сигурни ли сте че искате да премахнете този абонат?"
+
+#: views/subscribers.php:32
+msgid "Remove"
+msgstr "Изтрий"
+
+#: views/subscribers.php:43
+msgid "There are no subscribers"
+msgstr "Няма абонати"
+
+#: views/unsubscribe-form.php:4
+msgid "Unsubscribe"
+msgstr "Деабонирай се"
+
+#: widgets/subscribe-widget.php:12
+msgid "Subscription Form"
+msgstr "Форма за абониране"
+
+#: widgets/subscribe-widget.php:15 widgets/unsubscribe-widget.php:15
+msgid "Displays subscription form."
+msgstr "Покажи формата за абониране."
+
+#: widgets/subscribe-widget.php:39 widgets/unsubscribe-widget.php:39
+msgid "Title"
+msgstr "Заглавие"
+
+#: widgets/subscribe-widget.php:44 widgets/unsubscribe-widget.php:44
+msgid "Title:"
+msgstr "Заглавие:"
+
+#: widgets/unsubscribe-widget.php:12
+msgid "Unsubscription Form"
+msgstr "Форма за деабониране"
+
+#. Plugin URI of the plugin/theme
+msgid "https://bitbucket.org/petarvasilev/subscribe-now"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A plugin to allow users to subscribe to a mailing list."
+msgstr "Плъгин, който позволява всеки да се абонира към мейлинг списък."
+
+#. Author of the plugin/theme
+msgid "Petar Vasilev"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.petarvasilev.com/"
+msgstr ""
